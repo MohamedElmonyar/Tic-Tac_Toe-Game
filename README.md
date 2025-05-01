@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-This is a simple Tic-Tac-Toe game developed using [insert the language/technology here, e.g., C#, Java, Python, etc.].  
+This is a simple Tic-Tac-Toe game
 The game allows two players to compete in an interactive graphical interface.
 
 ## Features
