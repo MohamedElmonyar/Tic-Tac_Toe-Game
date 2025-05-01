@@ -19,27 +19,3 @@ The game allows two players to compete in an interactive graphical interface.
 4. **Game End**: The game automatically checks for a winner or draw after every move. Once the game ends, the board is disabled.
 5. **Restart**: A restart option is provided to start a new game.
 
-## Installation
-
-To run the game locally, follow these steps:
-
-1. Clone the repository:
-    ```bash
-    git clone [repository_url]
-    ```
-
-2. Open the project in [IDE name, e.g., Visual Studio, IntelliJ, etc.].
-
-3. Build and run the project.
-
-## Screenshots
-
-![Screenshot of the Game](path/to/screenshot.png)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to fork or contribute to this project!
